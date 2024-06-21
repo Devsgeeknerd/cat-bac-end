@@ -24,6 +24,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 
 * **APIs e Web Services:** Construção e consumo de APIs para comunicação entre sistemas.
   * RESTful APIs;
+  * SOAP APIs;
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
