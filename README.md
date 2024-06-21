@@ -51,6 +51,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Domain-driven design (ddd).
 
 * **Teste e Qualidade de Software:** Garantia de qualidade do software através de testes rigorosos.
+  * Testes unitários;
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
