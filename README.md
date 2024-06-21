@@ -40,6 +40,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Integração contínua (ci) e entrega contínua (cd);
   * Docker e containerização;
   * Orquestração de contêineres;
+  * Serviços de hospedagem;
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
