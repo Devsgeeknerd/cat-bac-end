@@ -9,6 +9,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 
 * **Linguagens de Programação do Lado do Servidor:** Linguagens usadas para escrever o código que roda no servidor.
   * Python (flask, django);
+  * JavaScript (node.js, express);
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
