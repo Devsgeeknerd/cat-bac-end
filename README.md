@@ -34,6 +34,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Proteção contra SQL Injection, XSS, CSRF;
   * Implementação de HTTPS e SSL/TLS;
   * Segurança em APIs;
+  * Gestão de autenticação e autorização.
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
