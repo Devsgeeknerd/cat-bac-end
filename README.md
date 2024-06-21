@@ -48,6 +48,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Design Patterns (singleton, factory, observer);
   * Arquitetura orientada a serviços (soa);
   * Event-driven architecture;
+  * Domain-driven design (ddd).
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
