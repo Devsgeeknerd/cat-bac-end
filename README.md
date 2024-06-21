@@ -47,6 +47,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Padrões de arquitetura (mvc, mvvm, microservices);
   * Design Patterns (singleton, factory, observer);
   * Arquitetura orientada a serviços (soa);
+  * Event-driven architecture;
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
