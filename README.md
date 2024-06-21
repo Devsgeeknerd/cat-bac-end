@@ -12,6 +12,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * JavaScript (node.js, express);
   * Java (spring boot);
   * Ruby (ruby on rails);
+  * PHP (laravel);
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
