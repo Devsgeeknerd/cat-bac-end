@@ -26,7 +26,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * RESTful APIs;
   * SOAP APIs;
   * GraphQL;
-  * Autenticação e autorização (OAuth, JWT);
+  * Autenticação e autorização (oauth, jwt);
   * Consumo de APIs com clientes HTTP.
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
