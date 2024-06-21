@@ -43,6 +43,8 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Serviços de hospedagem;
   * Monitoramento e logging.
 
+* **Arquitetura de Software:** Estruturação e design de sistemas escaláveis e manuteníveis.
+
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
 <!-- Informações -->
