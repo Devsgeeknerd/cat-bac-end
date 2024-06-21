@@ -62,8 +62,11 @@ Essas habilidades são essenciais para construir aplicações robustas, seguras 
 > [!IMPORTANT]\
 > **Dicas de Estudo:**
 >
-> * Pratica Regular:
+> * Prática Regular:
 >   * Implementar pequenos projetos para aplicar os conceitos aprendidos.
+>
+> * Participação em Projetos Open Source:
+>   * Contribuir para projetos para ganhar experiência prática.
 
 <!-- Informações -->
 ## &#8505; Informações
