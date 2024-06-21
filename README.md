@@ -22,6 +22,8 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * ORM (object-relational mapping);
   * Indexação e otimização de consultas.
 
+* **APIs e Web Services:** Construção e consumo de APIs para comunicação entre sistemas.
+
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
 <!-- Informações -->
