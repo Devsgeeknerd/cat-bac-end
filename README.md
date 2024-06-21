@@ -11,6 +11,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Python (flask, django);
   * JavaScript (node.js, express);
   * Java (spring boot);
+  * Ruby (ruby on rails);
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
