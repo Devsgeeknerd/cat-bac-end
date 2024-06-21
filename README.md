@@ -54,6 +54,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Testes unitários;
   * Testes de integração;
   * Testes de carga e desempenho;
+  * Testes automatizados;
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
