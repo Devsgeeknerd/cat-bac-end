@@ -30,6 +30,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Consumo de APIs com clientes HTTP.
 
 * **Segurança no Back-end:** Práticas e técnicas para garantir a segurança das aplicações e dados.
+  * Princípios de segurança da informação;
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
