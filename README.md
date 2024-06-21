@@ -13,6 +13,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Java (spring boot);
   * Ruby (ruby on rails);
   * PHP (laravel);
+  * C# (asp.net core).
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
