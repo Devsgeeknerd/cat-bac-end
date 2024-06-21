@@ -41,6 +41,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Docker e containerização;
   * Orquestração de contêineres;
   * Serviços de hospedagem;
+  * Monitoramento e logging.
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
