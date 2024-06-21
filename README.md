@@ -19,6 +19,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Bancos de dados relacionais (mysql, postgresql, sql server);
   * Bancos de dados não relacionais (mongodb, redis);
   * Consultas SQL avançadas;
+  * ORM (object-relational mapping);
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
