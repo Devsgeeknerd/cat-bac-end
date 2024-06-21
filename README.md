@@ -18,6 +18,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 * **Bancos de Dados e SQL:** Armazenamento e manipulação de dados usando bancos de dados relacionais e não relacionais.
   * Bancos de dados relacionais (mysql, postgresql, sql server);
   * Bancos de dados não relacionais (mongodb, redis);
+  * Consultas SQL avançadas;
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
