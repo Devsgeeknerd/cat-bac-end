@@ -15,6 +15,8 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * PHP (laravel);
   * C# (asp.net core).
 
+* **Bancos de Dados e SQL:** Armazenamento e manipulação de dados usando bancos de dados relacionais e não relacionais.
+
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
 <!-- Informações -->
