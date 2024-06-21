@@ -70,6 +70,9 @@ Essas habilidades são essenciais para construir aplicações robustas, seguras 
 >
 > * Estudo de Casos:
 >   * Analisar arquiteturas de sistemas existentes para entender boas práticas.
+>
+> * Comunidade e Mentoria:
+>   * Participar de comunidades online e buscar mentoria de desenvolvimento experientes.
 
 <!-- Informações -->
 ## &#8505; Informações
