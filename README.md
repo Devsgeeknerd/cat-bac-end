@@ -67,6 +67,9 @@ Essas habilidades são essenciais para construir aplicações robustas, seguras 
 >
 > * Participação em Projetos Open Source:
 >   * Contribuir para projetos para ganhar experiência prática.
+>
+> * Estudo de Casos:
+>   * Analisar arquiteturas de sistemas existentes para entender boas práticas.
 
 <!-- Informações -->
 ## &#8505; Informações
