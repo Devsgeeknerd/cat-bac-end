@@ -39,6 +39,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 * **DevOps e Deployment:** Integração e entrega contínua para deployar aplicações de maneira eficiente.
   * Integração contínua (ci) e entrega contínua (cd);
   * Docker e containerização;
+  * Orquestração de contêineres;
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
