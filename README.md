@@ -36,6 +36,8 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Segurança em APIs;
   * Gestão de autenticação e autorização.
 
+* **DevOps e Deployment:** Integração e entrega contínua para deployar aplicações de maneira eficiente.
+
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
 <!-- Informações -->
