@@ -16,6 +16,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * C# (asp.net core).
 
 * **Bancos de Dados e SQL:** Armazenamento e manipulação de dados usando bancos de dados relacionais e não relacionais.
+  * Bancos de dados relacionais (mysql, postgresql, sql server);
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
