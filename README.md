@@ -37,6 +37,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Gestão de autenticação e autorização.
 
 * **DevOps e Deployment:** Integração e entrega contínua para deployar aplicações de maneira eficiente.
+  * Integração contínua (ci) e entrega contínua (cd);
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
