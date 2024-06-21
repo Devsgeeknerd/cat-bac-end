@@ -59,6 +59,12 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 
 Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
 
+> [!IMPORTANT]\
+> **Dicas de Estudo:**
+>
+> * Pratica Regular:
+>   * Implementar pequenos projetos para aplicar os conceitos aprendidos.
+
 <!-- Informações -->
 ## &#8505; Informações
 
