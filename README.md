@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Back-end é fundamental para criar a lógica de negócios, gerenciamento de dados e a funcionalidade oculta das aplicações web.
+
+Ao completar esta categoria, terá uma compreensão sólida em:
+
+Essas habilidades são essenciais para construir aplicações robustas, seguras e escaláveis.
+
 <!-- Informações -->
 ## &#8505; Informações
 
